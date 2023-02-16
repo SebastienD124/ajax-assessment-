@@ -1,0 +1,12 @@
+Your HTML page should start with a heading "Show Profile" with a form beneath it.
+The form should have a username label, a text field, and a submit button
+When the user types a username and either hits enter or clicks the submit button, the profile of the username entered should appear.
+The profile should show the resulting user's:
+Avatar (if they have one)
+Name (if they made that public)
+Username (login)
+Company (if they have one)
+Location (if they have one)
+Number of Followers
+Number of Following
+If the user types another username and submits, that new resulting user's profile should show up
